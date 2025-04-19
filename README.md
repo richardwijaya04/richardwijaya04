@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardwijaya04&label=Profile%20views&color=0e75b6&style=flat" alt="richardwijaya04" /> </p>
 
-- 🌱 I’m currently learning **Web Programming, Data Science and AI**
+- 🌱 I’m currently learning **Web Programming, iOS Developer, Data Science and Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

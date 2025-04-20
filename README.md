@@ -1,23 +1,101 @@
-<h1 align="center">Hi 👋, I'm Richard Wijaya Harianto</h1>
-<h3 align="center">A Passionate Computer Science Student from Indonesia at Bina Nusantara University</h3>
+<h1 align="center">Hi there 👋, I'm Richard Wijaya Harianto</h1>
+<h3 align="center">🚀 Aspiring AI Engineer | iOS Developer | Future Tech Leader</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardwijaya04&label=Profile%20views&color=0e75b6&style=flat" alt="richardwijaya04" /> </p>
-
-- 🌱 I’m currently learning **Web Programming, iOS Developer, Data Science and Artificial Intelligence**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/richard-wijaya-harianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard wijaya harianto" height="30" width="40" /></a>
-<a href="https://instagram.com/richard_wijaya04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richard_wijaya04" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=richardwijaya04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <em>Computer Science student at Bina Nusantara University  🇮🇩, striving to build intelligent systems, craft beautiful mobile experiences, and lead global tech innovations.</em>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardwijaya04&show_icons=true&locale=en&layout=compact" alt="richardwijaya04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardwijaya04&show_icons=true&locale=en" alt="richardwijaya04" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardwijaya04&" alt="richardwijaya04" /></p>
+- 🔭 Currently developing intelligent iOS apps at **Apple Developer Academy @BINUS**
+- 🎯 Career Goals: **AI Engineer / Data Scientist** at world-class companies
+- 🍎 Secondary Passion: **iOS Development** — Creating intuitive, elegant, and performant apps
+- 🧠 Continuously Learning: AI/ML, Deep Learning, SwiftUI, CoreML, NLP, and Large Language Models
+- 🛠️ Always building new side projects — focused on solving real-world problems with scalable solutions
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> 
+</p>
+
+---
+
+### 📝 International Publications
+
+I’ve contributed to the academic and tech community through international conferences in the field of Computer Science and Technology. Here are some of my accepted papers:
+
+- 📄 **Revolutionizing Biometric Security: A Systematic Literature Review of Fingerprint Recognition Using Deep Learning for Resilient Infrastructure and Global Innovation (SDG 9)** – *Icon-TINE 2024*  
+  *(Certificate available upon request)*
+
+- 📄 **Harnessing Artificial Intelligence for Disease Prediction and Brain-Computer
+Interface: A Systematic Literature Review** – *Icon-TINE 2024*  
+- 📄 **Embark on Culinary Marvels: From Page to Plate with ARChefPro’s Innovative Augmented Reality Cooking Adventures** – *Icon-TINE 2024*  
+- 📄 **Leveraging Deep Learning Models to Combat Fake News: A Study on RNN and CNN Accuracy in Identifying Information** – *ICOCSETI 2025*  
+- 📄 **Revealing Health Anxiety in Patients with Chronic Disease: A Comparison of Naive Bayes and Decision Tree Algorithms** – *ICOCSETI 2025*  
+
+> Links to official publications will be updated once available.
+
+
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardwijaya04&layout=compact&theme=tokyonight" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardwijaya04&show_icons=true&theme=tokyonight" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=richardwijaya04&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/richard-wijaya-harianto" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/richard_wijaya04" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
+</p>
+
+---
+
+### 💡 Featured Projects (Coming Soon)
+
+I’m actively working on several cutting-edge projects:
+
+- 🤖 AI-Powered Sentiment Analysis for Social Media Monitoring  
+- 📱 iOS App using CoreML for On-Device Face Mask Detection  
+- 🌐 Real-time News Summarization with LLM and NLP  
+- 🎯 Personal Portfolio App built in SwiftUI + Firebase  
+
+Stay tuned — updates are on the way! 🚀
+
+---
+
+<em>“Stay hungry, stay foolish.” – Steve Jobs</em>
+

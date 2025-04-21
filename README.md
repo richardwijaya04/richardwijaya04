@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>Computer Science student at Bina Nusantara University  🇮🇩, striving to build intelligent systems, craft beautiful mobile experiences, and lead global tech innovations.</em>
-</p>
+</p> 
 
 ---
 

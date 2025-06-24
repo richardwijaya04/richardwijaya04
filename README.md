@@ -110,18 +110,6 @@ Interface: A Systematic Literature Review** – *Icon-TINE 2024*
 
 ---
 
-### 🌐 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/richard-wijaya-harianto" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-
-<a href="https://instagram.com/richard_wijaya04" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
-
-</p>
-
----
-
 ### 💡 Featured Projects (Coming Soon)
 
 I’m actively working on several cutting-edge projects:
@@ -133,6 +121,18 @@ I’m actively working on several cutting-edge projects:
 - 🌐 Real-time News Summarization with LLM and NLP
 
 - 🎯 Personal Portfolio App built in SwiftUI + Firebase
+
+  ---
+
+### 🌐 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/richard-wijaya-harianto" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+
+<a href="https://instagram.com/richard_wijaya04" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
+
+</p>
 
 Stay tuned — updates are on the way! 🚀
 

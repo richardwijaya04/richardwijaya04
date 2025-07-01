@@ -50,8 +50,8 @@ My research contributions in AI and technology have been recognized at internati
 - 📄 **[Revolutionizing Biometric Security: A Systematic Literature Review of Fingerprint Recognition Using Deep Learning for Resilient Infrastructure and Global Innovation (SDG 9)]** – *Icon-TINE 2024*
 - 📄 **[Harnessing Artificial Intelligence for Disease Prediction and Brain-Computer Interface: A Systematic Literature Review]** – *Icon-TINE 2024*
 - 📄 **[Embark on Culinary Marvels: From Page to Plate with ARChefPro’s Innovative Augmented Reality Cooking Adventures]** – *Icon-TINE 2024*
-- 📄 **[Leveraging Deep Learning Models to Combat Fake News: A Study on RNN and CNN Accuracy in Identifying Information][(https://ieeexplore.ieee.org/document/11019457)]** – *ICOCSETI 2025*
-- 📄 **[Revealing Health Anxiety in Patients with Chronic Disease: A Comparison of Naive Bayes and Decision Tree Algorithms][(https://ieeexplore.ieee.org/document/11020568)]** – *ICOCSETI 2025*
+- 📄 **[Leveraging Deep Learning Models to Combat Fake News: A Study on RNN and CNN Accuracy in Identifying Information](https://ieeexplore.ieee.org/document/11019457)** – *ICOCSETI 2025*
+- 📄 **[Revealing Health Anxiety in Patients with Chronic Disease: A Comparison of Naive Bayes and Decision Tree Algorithms](https://ieeexplore.ieee.org/document/11020568)** – *ICOCSETI 2025*
 
 ---
 

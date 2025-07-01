@@ -140,6 +140,3 @@ Stay tuned — updates are on the way! 🚀
 
 <em>“Stay hungry, stay foolish.” – Steve Jobs</em>
 
-
-
-I have a readme like this. can you improve my readme so that it is more attractive in the eyes of HR in companies such as apple, google, microsoft and also in the eyes of C-Levels in global companies is also very stunning and very attractive to recruit. please make the best readme ever in the whole world for my profile. please

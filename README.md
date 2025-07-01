@@ -47,13 +47,11 @@
 
 My research contributions in AI and technology have been recognized at international conferences, showcasing my ability to drive innovation in Computer Science:
 
-- 📄 **[Revolutionizing Biometric Security: A Systematic Literature Review of Fingerprint Recognition Using Deep Learning for Resilient Infrastructure and Global Innovation (SDG 9)](https://example.com/publication1)** – *Icon-TINE 2024*
-- 📄 **[Harnessing Artificial Intelligence for Disease Prediction and Brain-Computer Interface: A Systematic Literature Review](https://example.com/publication2)** – *Icon-TINE 2024*
-- 📄 **[Embark on Culinary Marvels: From Page to Plate with ARChefPro’s Innovative Augmented Reality Cooking Adventures](https://example.com/publication3)** – *Icon-TINE 2024*
-- 📄 **[Leveraging Deep Learning Models to Combat Fake News: A Study on RNN and CNN Accuracy in Identifying Information](https://example.com/publication4)** – *ICOCSETI 2025*
-- 📄 **[Revealing Health Anxiety in Patients with Chronic Disease: A Comparison of Naive Bayes and Decision Tree Algorithms](https://example.com/publication5)** – *ICOCSETI 2025*
-
-*Certificates available upon request. Links are placeholders; official publication links will be updated soon.*
+- 📄 **[Revolutionizing Biometric Security: A Systematic Literature Review of Fingerprint Recognition Using Deep Learning for Resilient Infrastructure and Global Innovation (SDG 9)]** – *Icon-TINE 2024*
+- 📄 **[Harnessing Artificial Intelligence for Disease Prediction and Brain-Computer Interface: A Systematic Literature Review]** – *Icon-TINE 2024*
+- 📄 **[Embark on Culinary Marvels: From Page to Plate with ARChefPro’s Innovative Augmented Reality Cooking Adventures]** – *Icon-TINE 2024*
+- 📄 **[Leveraging Deep Learning Models to Combat Fake News: A Study on RNN and CNN Accuracy in Identifying Information][(https://ieeexplore.ieee.org/document/11019457)]** – *ICOCSETI 2025*
+- 📄 **[Revealing Health Anxiety in Patients with Chronic Disease: A Comparison of Naive Bayes and Decision Tree Algorithms][(https://ieeexplore.ieee.org/document/11020568)]** – *ICOCSETI 2025*
 
 ---
 
@@ -61,18 +59,18 @@ My research contributions in AI and technology have been recognized at internati
 
 I’m working on cutting-edge projects that blend AI, mobile development, and real-world impact. Explore them below:
 
+- 🎯 **[GTUp! 🚀 - Redefining Productivity with Elegance & Precision](https://github.com/ChronoStellar/GTUp)**  
+  A SwiftUI-based iOS app integrated with WatchOS revolutionizes productivity through a sophisticated evolution of the Pomodoro Technique.
+
+- 📱 **[HakkaKing: Bridging Generations Through Language and Machine Learning with iOS App](https://github.com/jesslynamanda13/HakkaKing)**  
+  An iOS app using CoreML and SwiftUI for learning Hakka pronunciation to empower individuals who face communication barriers with older generations.
+
 - 🤖 **[AI-Powered Sentiment Analysis for Social Media Monitoring](https://github.com/richardwijaya04/sentiment-analysis)**  
-  A scalable NLP-based tool leveraging LLMs to analyze social media sentiment in real-time, built with Python, TensorFlow, and Flask.
+  A scalable NLP-based tool leveraging LLMs to analyze social media sentiment in real-time, built with Python, TensorFlow, and PyTorch.
 
-- 📱 **[FaceMask: On-Device Face Mask Detection iOS App](https://github.com/richardwijaya04/facemask-app)**  
-  An iOS app using CoreML and SwiftUI for real-time face mask detection, optimized for on-device performance and user privacy.
-
-- 🌐 **[NewsSum: Real-Time News Summarization with LLM](https://github.com/richardwijaya04/newssum)**  
-  A web-based application using NLP and LLMs to generate concise, accurate news summaries, built with React and Python.
-
-- 🎯 **[PortfolioPal: Personal Portfolio App](https://github.com/richardwijaya04/portfoliopal)**  
-  A SwiftUI-based iOS app integrated with Firebase, showcasing my projects and skills in an interactive, user-friendly interface.
-
+- 🌐 **[Sales Analysis and Forecasting for CV Afan Jaya Jember Indo](https://github.com/richardwijaya04/Big-data-analytics-finpro)**  
+  A big-data analytics project using Python, Pandas, Prophet, Scikit-Learn, Matplotlib, and Seaborn to derive insights from existing sales data and forecast sales for the next 7 days.
+  
 ---
 
 ## 📊 GitHub Stats
@@ -109,6 +107,6 @@ I’m working on cutting-edge projects that blend AI, mobile development, and re
 - **Proven Expertise**: Published research in AI and deep learning at international conferences.
 - **Practical Skills**: Hands-on experience building AI-driven and iOS applications with real-world impact.
 - **Innovative Mindset**: Continuously exploring new technologies and tackling complex challenges.
-- **Team Player**: Collaborative, adaptable, and eager to contribute to cutting-edge projects at Microsoft, Apple, or Google.
+- **Team Player**: Collaborative, adaptable, and eager to contribute to cutting-edge projects at the company.
 
 Let’s build the future together! 🚀
